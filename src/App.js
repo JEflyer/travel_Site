@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import {BlockNative, Connect} from "./blocknative";
 
 function App() {
   return (
     <div className="App">
-      <button > Mint Here</button>
-      <div id="map"></div>
+      
     </div>
   );
 }
